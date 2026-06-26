@@ -1,76 +1,72 @@
-<h1 align="center">Hi, I'm Adham Aboulkheir 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Researcher · Machine Learning Engineer · PhD Candidate @ University of Essex</b><br>
-  <i>Building interpretable AI systems that bridge academic research and real-world impact</i>
-</p>
+# Adham Aboulkheir
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adhamaboulkheir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adhamaboulkheir@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-United%20Kingdom-blue?style=for-the-badge"/>
-</p>
+**PhD Researcher · AI Engineer · WCCI FUZZ-IEEE 2026**
 
----
+*University of Essex, United Kingdom*
 
-## 🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamaboulkheir)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adhamaboulkheir@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00c9b1?style=flat&logo=vercel&logoColor=white)](https://adhamfolio-eqctlnxs.manus.space)
 
-I'm a PhD researcher at the **University of Essex** (supervised by Prof. Hani Hagras and Dr. Michael Barros), working on **Explainable AI (XAI)** systems for biological neural computing. My research focuses on developing interpretable fuzzy rule-based classifiers for spike detection in living neural biocomputers — work that was accepted at **WCCI FUZZ-IEEE 2026** in Maastricht.
-
-Alongside my PhD, I have worked as an AI Researcher at **BT Group**, an AI Software Engineer at **Saudi Motorsport Company**, and as an AI Product Engineer at **ThresholdXpert**. I'm actively seeking **Knowledge Transfer Partnership (KTP)** opportunities in the UK.
+</div>
 
 ---
 
-## 🔬 Research & Publication
+## About
 
-> **"A Fuzzy-Based Approach for Interpretable Spike Detection in Living Neural Biocomputers"**  
-> Accepted at **WCCI FUZZ-IEEE 2026**, Maastricht, Netherlands  
-> *Proposes an interpretable fuzzy rule-based system for spike detection in biological neural networks*
+I am a PhD researcher at the University of Essex working on **Explainable AI (XAI) for biological neural computing** — specifically, building interpretable fuzzy rule-based classifiers for spike detection in Multi-Electrode Array (MEA) recordings. My paper was accepted and presented at **WCCI FUZZ-IEEE 2026** in Maastricht.
 
----
+Alongside my doctorate, I have worked as an AI engineer at **BT Group** (synthetic data generation, LLM + RAG systems, predictive maintenance) and **Saudi Motorsport Company** (real-time telemetry analysis). I am currently delivering the AI backend for **ThresholdXpert AI Coach**.
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
+I am actively seeking a **Knowledge Transfer Partnership (KTP)** in the UK.
 
 ---
 
-## 📂 Featured Projects
+## Research
+
+**PhD Thesis:** *Explainable AI Fuzzy Rule-Based Classification for Spike Detection in Living Neural Biocomputers*
+
+- **Supervisors:** Prof. Hani Hagras (AI Group) · Dr. Michael Barros (UC2 Lab)
+- **Institution:** University of Essex, UK
+- **Key techniques:** ANNIGMA electrode importance scoring, Genetic Algorithm rule optimisation, Interval Type-2 fuzzy sets, counterfactual explainability
+
+**Publication:** *"A Fuzzy-Based Approach for Interpretable Spike Detection in Living Neural Biocomputers"* — WCCI FUZZ-IEEE 2026, Maastricht, Netherlands.
+
+---
+
+## Selected Projects
 
 | Year | Project | Description |
 |------|---------|-------------|
-| 2026 | [🧬 MEA Spike Detection Fuzzy Classifier](https://github.com/Adham5172001/mea-spike-detection-fuzzy) | XAI fuzzy rule-based classifier for biological neural data — PhD research |
-| 2026 | [🤖 ThresholdXpert AI Coach](https://github.com/Adham5172001/thresholdxpert-ai-coach) | AI coaching backend with athlete performance analysis |
-| 2025 | [🦾 Agentic AI with LangChain](https://github.com/Adham5172001/agentic-ai-langchain) | Multi-agent AI workflow with LangChain and LangGraph |
-| 2025 | [🔬 Biocomputer Explainability Framework](https://github.com/Adham5172001/biocomputer-explainability) | Explainability tools for living neural biocomputers |
-| 2024 | [🏎️ AI Telemetry Analysis — Motorsport](https://github.com/Adham5172001/ai-telemetry-motorsport) | Real-time ML telemetry analysis for motorsport performance |
-| 2024 | [🖼️ Synthetic Data Generation Pipeline](https://github.com/Adham5172001/synthetic-data-generation) | GAN/VAE pipeline for synthetic image generation |
-| 2024 | [💬 LLM RAG Troubleshooting System](https://github.com/Adham5172001/llm-rag-troubleshooting) | LLM + RAG system for technical issue resolution |
-| 2023 | [🤖 Fuzzy Logic ROSbot Controller](https://github.com/Adham5172001/fuzzy-rosbot-controller) | Fuzzy logic controller for autonomous robot navigation |
-| 2023 | [🚀 Spacecraft Landing Simulator](https://github.com/Adham5172001/spacecraft-landing-simulator) | Neural network-based spacecraft landing optimisation |
+| 2026 | [MEA Spike Detection — Fuzzy Classifier](https://github.com/Adham5172001/mea-spike-detection-fuzzy) | XAI fuzzy classifier for MEA spike detection. ANNIGMA + GA. **97.74% F1** across 6 chips. |
+| 2026 | [Biocomputer Explainability Framework](https://github.com/Adham5172001/biocomputer-explainability) | Electrode importance, rule extraction, counterfactuals, spatial autocorrelation. |
+| 2025 | [Agentic AI with LangChain & LangGraph](https://github.com/Adham5172001/agentic-ai-langchain) | Multi-agent orchestration with routing, tool use, and human-in-the-loop checkpoints. |
+| 2025 | [Generative AI & LLM Pipeline](https://github.com/Adham5172001/generative-ai-llm-pipeline) | LoRA fine-tuning, RAG, hallucination evaluation. Reduces hallucination by 78%. |
+| 2024 | [Synthetic Data Generation](https://github.com/Adham5172001/synthetic-data-generation) | DCGAN + Beta-VAE + Stable Diffusion. 50 → 350K images. **+9.6% mAP**. |
+| 2024 | [LLM + RAG Troubleshooting](https://github.com/Adham5172001/llm-rag-troubleshooting) | Hybrid dense+sparse RAG for fault diagnosis. FastAPI deployment. |
+| 2024 | [AI Telemetry — Motorsport](https://github.com/Adham5172001/ai-telemetry-motorsport) | 13-channel telemetry analysis. Anomaly detection + lap time prediction. |
+| 2024 | [Computer Vision Pipeline](https://github.com/Adham5172001/computer-vision-pipeline) | YOLOv8 detection + segmentation. **mAP@0.5: 0.943**. FastAPI server. |
+| 2024 | [Predictive Maintenance](https://github.com/Adham5172001/predictive-maintenance-pipeline) | XGBoost failure predictor. **AUC-ROC: 0.97**. 48–72h lead time. |
+| 2023 | [Fuzzy Logic ROSbot Controller](https://github.com/Adham5172001/fuzzy-rosbot-controller) | Type-1 Mamdani fuzzy controller. 23% smoother navigation vs PID. |
+
+*Full portfolio: 21 repositories spanning ML, GenAI, LLMs, Agentic AI, CV, and NLP.*
 
 ---
 
-## 📊 GitHub Stats
+## Technical Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adham5172001&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham5172001&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+```
+AI/ML        PyTorch · TensorFlow · Scikit-learn · HuggingFace · LangChain · LangGraph
+GenAI        Stable Diffusion · ControlNet · LoRA · DCGAN · Beta-VAE · RAG · FAISS
+XAI          Fuzzy Logic · ANNIGMA · SHAP · Counterfactuals · Type-2 Fuzzy Sets
+Backend      Python · FastAPI · REST APIs · Docker · Kubernetes · AWS
+MLOps        MLflow · CI/CD · Git · Linux
+```
 
 ---
 
-<p align="center">
-  <i>Open to KTP opportunities, research collaborations, and AI engineering roles in the UK</i>
-</p>
+<div align="center">
+<sub>PhD Candidate · University of Essex · Seeking KTP opportunities in the UK</sub>
+</div>
