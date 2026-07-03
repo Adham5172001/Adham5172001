@@ -20,8 +20,6 @@ I am a PhD researcher at the University of Essex working on **Explainable AI (XA
 
 Alongside my doctorate, I have worked as an AI engineer at **BT Group** (synthetic data generation, LLM + RAG systems, predictive maintenance) and **Saudi Motorsport Company** (real-time telemetry analysis). I am currently delivering the AI backend for **ThresholdXpert AI Coach**.
 
-I am actively seeking a **Knowledge Transfer Partnership (KTP)** in the UK.
-
 ---
 
 ## Research
@@ -68,5 +66,5 @@ MLOps        MLflow · CI/CD · Git · Linux
 ---
 
 <div align="center">
-<sub>PhD Candidate · University of Essex · Seeking KTP opportunities in the UK</sub>
+<sub>PhD Candidate · University of Essex · WCCI FUZZ-IEEE 2026</sub>
 </div>
