@@ -7,8 +7,8 @@
 *University of Essex, United Kingdom*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamaboulkheir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00c9b1?style=flat&logo=vercel&logoColor=white)](https://adhamaboulkheir.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adhamaboulkheir@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00c9b1?style=flat&logo=vercel&logoColor=white)](https://adhamfolio-eqctlnxs.manus.space)
 
 </div>
 
@@ -19,6 +19,8 @@
 I am a PhD researcher at the University of Essex working on **Explainable AI (XAI) for biological neural computing** — specifically, building interpretable fuzzy rule-based classifiers for spike detection in Multi-Electrode Array (MEA) recordings. My paper was accepted and presented at **WCCI FUZZ-IEEE 2026** in Maastricht.
 
 Alongside my doctorate, I have worked as an AI engineer at **BT Group** (synthetic data generation, LLM + RAG systems, predictive maintenance) and **Saudi Motorsport Company** (real-time telemetry analysis). I am currently delivering the AI backend for **ThresholdXpert AI Coach**.
+
+🌐 **Portfolio:** [adhamaboulkheir.io](https://adhamaboulkheir.io)
 
 ---
 
@@ -49,7 +51,7 @@ Alongside my doctorate, I have worked as an AI engineer at **BT Group** (synthet
 | 2024 | [Predictive Maintenance](https://github.com/Adham5172001/predictive-maintenance-pipeline) | XGBoost failure predictor. **AUC-ROC: 0.97**. 48–72h lead time. |
 | 2023 | [Fuzzy Logic ROSbot Controller](https://github.com/Adham5172001/fuzzy-rosbot-controller) | Type-1 Mamdani fuzzy controller. 23% smoother navigation vs PID. |
 
-*Full portfolio: 21 repositories spanning ML, GenAI, LLMs, Agentic AI, CV, and NLP.*
+*Full portfolio: 21 repositories — [adhamaboulkheir.io](https://adhamaboulkheir.io)*
 
 ---
 
@@ -66,5 +68,5 @@ MLOps        MLflow · CI/CD · Git · Linux
 ---
 
 <div align="center">
-<sub>PhD Candidate · University of Essex · WCCI FUZZ-IEEE 2026</sub>
+<sub>PhD Candidate · University of Essex · WCCI FUZZ-IEEE 2026 · <a href="https://adhamaboulkheir.io">adhamaboulkheir.io</a></sub>
 </div>
