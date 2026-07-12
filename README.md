@@ -38,20 +38,22 @@ Alongside my doctorate, I have worked as an AI engineer at **BT Group** (synthet
 
 ## Selected Projects
 
+The repositories below include research code, applied prototypes, and educational demonstrations. Each project README states its current maturity and the evidence behind reported results.
+
 | Year | Project | Description |
 |------|---------|-------------|
 | 2026 | [MEA Spike Detection — Fuzzy Classifier](https://github.com/Adham5172001/mea-spike-detection-fuzzy) | XAI fuzzy classifier for MEA spike detection. ANNIGMA + GA. **97.74% F1** across 6 chips. |
 | 2026 | [Biocomputer Explainability Framework](https://github.com/Adham5172001/biocomputer-explainability) | Electrode importance, rule extraction, counterfactuals, spatial autocorrelation. |
 | 2025 | [Agentic AI with LangChain & LangGraph](https://github.com/Adham5172001/agentic-ai-langchain) | Multi-agent orchestration with routing, tool use, and human-in-the-loop checkpoints. |
 | 2025 | [Generative AI & LLM Pipeline](https://github.com/Adham5172001/generative-ai-llm-pipeline) | LoRA fine-tuning, RAG, hallucination evaluation. Reduces hallucination by 78%. |
-| 2024 | [Synthetic Data Generation](https://github.com/Adham5172001/synthetic-data-generation) | DCGAN + Beta-VAE + Stable Diffusion. 50 → 350K images. **+9.6% mAP**. |
+| 2024 | [Synthetic Data Generation](https://github.com/Adham5172001/synthetic-data-generation) | Educational prototype for synthetic-image pipeline components and evaluation reporting. |
 | 2024 | [LLM + RAG Troubleshooting](https://github.com/Adham5172001/llm-rag-troubleshooting) | Hybrid dense+sparse RAG for fault diagnosis. FastAPI deployment. |
 | 2024 | [AI Telemetry — Motorsport](https://github.com/Adham5172001/ai-telemetry-motorsport) | 13-channel telemetry analysis. Anomaly detection + lap time prediction. |
 | 2024 | [Computer Vision Pipeline](https://github.com/Adham5172001/computer-vision-pipeline) | YOLOv8 detection + segmentation. **mAP@0.5: 0.943**. FastAPI server. |
 | 2024 | [Predictive Maintenance](https://github.com/Adham5172001/predictive-maintenance-pipeline) | XGBoost failure predictor. **AUC-ROC: 0.97**. 48–72h lead time. |
 | 2023 | [Fuzzy Logic ROSbot Controller](https://github.com/Adham5172001/fuzzy-rosbot-controller) | Type-1 Mamdani fuzzy controller. 23% smoother navigation vs PID. |
 
-*Full portfolio: 21 repositories — [adhamaboulkheir.io](https://adhamaboulkheir.io)*
+*Browse all public repositories on [GitHub](https://github.com/Adham5172001?tab=repositories) or visit [adhamaboulkheir.io](https://adhamaboulkheir.io).*
 
 ---
 
